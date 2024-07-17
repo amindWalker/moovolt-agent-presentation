@@ -13,8 +13,17 @@ fonts:
   mono: Fira Code
 ---
 
-# MOOV.OLT
-Revolutionizing EV with AI innovations
+<div>
+
+  <div grid place-items-center scale-125>
+  
+  # ![](/moovolt.svg)
+  Revolutionizing EVs with AI innovations
+  
+  </div>
+
+
+</div>
 
 <div class="pt-12 animate-pulse">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -119,7 +128,6 @@ background: /proactive.webp
 
     - Minimize grid stress during peak
     - Maximize use of renewable energy
-    - Collaborate with grid operators
     - Invest in ongoing R&D:
       - Enhance predictive models
       - Optimize algorithms
